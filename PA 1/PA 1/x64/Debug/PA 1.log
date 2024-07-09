@@ -1,0 +1,39 @@
+﻿  fitbit.c
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\fitbit.c(31,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\fitbit.c(201,9): warning C4244: 'return': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\fitbit.c(215,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\fitbit.c(248,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\fitbit.c(248,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\fitbit.c(248,9): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\fitbit.c(286,202): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\fitbit.c(286,202): message : placeholders and their parameters expect 7 variadic arguments, but 8 were provided
+  main.c
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(11,50): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(11,38): warning C4024: 'fillData': different types for formal and actual parameter 2
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(14,53): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(14,41): warning C4024: 'paitentChecker': different types for formal and actual parameter 1
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(16,49): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(16,37): warning C4024: 'minutechecker': different types for formal and actual parameter 1
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(18,26): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(18,14): warning C4024: 'printStruct': different types for formal and actual parameter 1
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(22,50): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(22,38): warning C4024: 'calculateCalories': different types for formal and actual parameter 1
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(23,52): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(23,40): warning C4024: 'calculateFloors': different types for formal and actual parameter 1
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(24,41): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(24,29): warning C4024: 'calculateSteps': different types for formal and actual parameter 1
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(25,58): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(25,46): warning C4024: 'calculateHeartrate': different types for formal and actual parameter 1
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(26,74): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(26,62): warning C4024: 'calculatemaxStepsInAMinute': different types for formal and actual parameter 1
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(27,93): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(27,81): warning C4024: 'calculateconsecutivePoorSleepCounter': different types for formal and actual parameter 1
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(28,50): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(28,38): warning C4024: 'calculateDistance': different types for formal and actual parameter 1
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(31,184): warning C4474: 'fprintf' : too many arguments passed for format string
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(31,184): message : placeholders and their parameters expect 6 variadic arguments, but 7 were provided
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(34,40): warning C4047: 'function': 'FitbitData *' differs in levels of indirection from 'FitbitData (*)[1444]'
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\main.c(34,28): warning C4024: 'printSructToFile': different types for formal and actual parameter 2
+  Generating Code...
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\PA 1\fitbit.c(275): warning C4716: 'calculateconsecutivePoorSleepCounter': must return a value
+  PA 1.vcxproj -> C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 1\x64\Debug\PA 1.exe
