@@ -1,0 +1,4 @@
+﻿  Simulations.cpp
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 5\PA 5\Simulations.cpp(19,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 5\PA 5\Simulations.cpp(49,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PA 5.vcxproj -> C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 5\x64\Debug\PA 5.exe

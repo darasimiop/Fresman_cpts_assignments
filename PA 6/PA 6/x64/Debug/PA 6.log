@@ -1,0 +1,6 @@
+﻿  main.cpp
+  NodeBST.cpp
+  BST.cpp
+  Generating Code...
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 6\PA 6\BST.cpp(112): warning C4715: 'BST::search': not all control paths return a value
+  PA 6.vcxproj -> C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 6\x64\Debug\PA 6.exe
