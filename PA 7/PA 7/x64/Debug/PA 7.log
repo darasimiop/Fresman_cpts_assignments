@@ -1,0 +1,10 @@
+﻿  data.cpp
+  Stack.cpp
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 7\PA 7\Stack.cpp(74,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 7\PA 7\Stack.cpp(97,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 7\PA 7\Stack.cpp(107,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Menu.cpp
+  main.cpp
+  Generating Code...
+C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 7\PA 7\Stack.cpp(45): warning C4715: 'stack::push': not all control paths return a value
+  PA 7.vcxproj -> C:\Users\daras\OneDrive\Desktop\math 171\CPTS 122\PA 7\x64\Debug\PA 7.exe
